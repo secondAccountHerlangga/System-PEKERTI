@@ -1,0 +1,16 @@
+{
+    "nama":"",
+    "nidn":"",
+    "institusiAsal":"",
+    "email":"",
+    "nomerTelp":"",
+    "linkTransfer":"",
+    "linkPenugasan":"",
+    "linkTidakMenggugat":"",
+    "isValidated":"",
+    "system":{
+        "linkOpenLearning":"",
+        "linkAksesKelas":"",
+        "linkSertifikat":""
+    }
+}

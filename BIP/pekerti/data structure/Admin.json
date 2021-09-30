@@ -1,0 +1,9 @@
+{
+    "username":"",
+    "password":"",
+    "permission":{
+        "validate_data":true,
+        "update_data_peserta":true,
+        "add_other_user":false
+    }
+}
